@@ -1,0 +1,17 @@
+SISTEMA DE RESULTADOS - VERSION LIVIANA 
+========================================= 
+ 
+REQUISITOS: 
+- Windows 10/11 
+- Python 3.8 o superior 
+ 
+PRIMERA EJECUCION: 
+1. Instalar Python desde python.org 
+2. IMPORTANTE: Marcar "Add Python to PATH" durante la instalación 
+3. Ejecutar SistemaResultados.exe 
+ 
+VENTAJAS: 
+- Usa las librerías del sistema 
+- Ultra liviano y rápido 
+- Instala dependencias automáticamente 
+- Compatible con cualquier Python 3.8+ 
